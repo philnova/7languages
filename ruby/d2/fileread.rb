@@ -16,6 +16,7 @@ puts
 puts
 
 # what are the advantages of using blocks?
+# - more concise!
 # - don't need to explicitly close file
 # - makes it easy to go line by line, rather than slurping whole file into memory
 
